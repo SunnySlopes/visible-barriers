@@ -1,3 +1,8 @@
+This fork delete the new creative tab created by this mod (because it conflicts with other mods I use, and I'll add a toggle to that function and make a pull request as long as I know how to do so.).
+
+The origin ReadMe file is as follow:
+-------------------------------------------------------------------------------------
+
 # Visible Barriers
 
 Visible Barriers is a useful mod for mapmakers and map playtesters.
